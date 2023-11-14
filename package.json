@@ -1,0 +1,17 @@
+{
+  "name": "speed_metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loadTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "axios": "^1.6.1",
+    "mongodb": "^6.2.0"
+  }
+}
